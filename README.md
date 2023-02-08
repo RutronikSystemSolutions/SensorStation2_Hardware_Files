@@ -1,6 +1,6 @@
 # Sensor Station 2 Arduino Adapter Project
 
-This adapter was built to connect the Melexis MLX90640, the VISHAY VCNL4035X01 and 4D System GEN4-ULCD-35P4CT-CLB devices to the RDK2 and RDK3 development kits.
+This adapter was built to connect the Melexis MLX90640, the VISHAY VCNL4035X01 and 4D Systems GEN4-ULCD-35P4CT-CLB devices to the RDK2 and RDK3 development kits.
 
 <img src="images/SS2_Adapter.jpg" style="zoom:20%;" />
 
